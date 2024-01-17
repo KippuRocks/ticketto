@@ -587,3 +587,10 @@ sequenceDiagram
 
     Attendances -->> Attendee: AttendanceMarked
 ```
+
+## FAQ
+
+<details>
+    <strong><summary>On the commit-reveal scheme that's involved in the <code>deferred_transfer</code> flow, how can we solve up for frontrunning on the <i>reveal</i> phase?</strong></summary>
+    <p></p>
+</details>
